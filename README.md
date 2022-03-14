@@ -13,7 +13,7 @@
  - Certain objects are interactable.
  - The consoles require the remote to operate in both the storage room and main room.
 
-##Developer
+## Developer
 Stratton Brooks
 [Linkedin](https://www.linkedin.com/in/stratton-brooks/)
  
