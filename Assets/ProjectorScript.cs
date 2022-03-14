@@ -18,6 +18,7 @@ public class ProjectorScript : MonoBehaviour
         remoteMatRef = remoteColor.GetComponent<Renderer>().material;
     }
 
+    /// <summary> Method <c> OnTriggerEnter</c> activates the particle system</summary>
     private void OnTriggerEnter(Collider other) 
     {
         if (other.CompareTag("Remote"))
