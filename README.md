@@ -1,6 +1,6 @@
 # 0x00-unity-vr_room
- An introduction to XR and 3D objects for the Oculus input system.
  ![alt text](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-vr_room/main/Assets/Images/vr_room_screenshot.jpg)
+  An introduction to XR and 3D objects for the Oculus input system. This project is an escape-room-like display, but it's easy to escape.
  
  ## How to install for Oculus
  - Download the apk from [here](https://drive.google.com/file/d/1tZl-6tCvvK0zqAOLl7nTNqpEV0O9dMpc/view?usp=sharing)
