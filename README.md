@@ -8,10 +8,20 @@
  - Make sure **Unkown Sources** is enabled in your Oculus app on your computer--in Settings/General.
  - In your Oculus navigate to the 'Unknown Source' in your apps.
  - Launch and explore!
- ## Key Concepts
+
+ ## Intended features
  - Teleportation is implemented.
  - Certain objects are interactable.
  - The consoles require the remote to operate in both the storage room and main room.
+
+## Needs to be implemented
+- I want to go back and optimize the meshes/lighting.
+- I want to add more interaction with certain objects with animation.
+
+## Challenges
+- Learning how physics affects everything.
+- Understanding XR UI with raycasting.
+- Deploying and debugging in VR
 
 ## Developer
 Stratton Brooks
