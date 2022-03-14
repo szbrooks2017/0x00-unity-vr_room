@@ -15,5 +15,6 @@
 
 ## Developer
 Stratton Brooks
+I'm an XR developer based in Tulsa, OK. I'm Native American. I specialize in Unity and WebXR.
 [Linkedin](https://www.linkedin.com/in/stratton-brooks/)
  
